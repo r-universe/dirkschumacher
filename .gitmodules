@@ -8,33 +8,40 @@
 	url = https://github.com/dirkschumacher/anthro
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/dirkschumacher/duckduckr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "encryptedRmd"]
 	path = encryptedRmd
 	url = https://github.com/dirkschumacher/encryptedrmd
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "listcomp"]
 	path = listcomp
 	url = https://github.com/dirkschumacher/listcomp
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "ompr"]
 	path = ompr
 	url = https://github.com/dirkschumacher/ompr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "ompr.roi"]
 	path = ompr.roi
 	url = https://github.com/dirkschumacher/ompr.roi
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rpicosat"]
 	path = rpicosat
 	url = https://github.com/dirkschumacher/rpicosat
 	shallow = true
 	registered = true
+	oncran = true
