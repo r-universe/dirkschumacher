@@ -1,0 +1,30 @@
+[
+  {
+    "package": "anthro",
+    "oncran": true
+  },
+  {
+    "package": "duckduckr",
+    "oncran": true
+  },
+  {
+    "package": "encryptedRmd",
+    "oncran": true
+  },
+  {
+    "package": "listcomp",
+    "oncran": true
+  },
+  {
+    "package": "ompr",
+    "oncran": true
+  },
+  {
+    "package": "ompr.roi",
+    "oncran": true
+  },
+  {
+    "package": "rpicosat",
+    "oncran": true
+  }
+]
