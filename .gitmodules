@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "anthro"]
-	path = anthro
-	url = https://github.com/dirkschumacher/anthro
-	shallow = true
-	registered = true
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/dirkschumacher/duckduckr

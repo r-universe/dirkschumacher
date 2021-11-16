@@ -1,9 +1,5 @@
 [
   {
-    "package": "anthro",
-    "oncran": true
-  },
-  {
     "package": "duckduckr",
     "oncran": true
   },
