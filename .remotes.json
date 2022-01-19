@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ompr",
+    "url": "https://github.com/dirkschumacher/ompr",
+    "via": ["ompr.roi"],
+    "from": "ompr.roi"
+  }
+]
