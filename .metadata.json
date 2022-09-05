@@ -18,9 +18,5 @@
   {
     "package": "ompr.roi",
     "oncran": true
-  },
-  {
-    "package": "rpicosat",
-    "oncran": true
   }
 ]

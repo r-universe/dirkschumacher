@@ -28,8 +28,3 @@
 	url = https://github.com/dirkschumacher/ompr.roi
 	shallow = true
 	registered = true
-[submodule "rpicosat"]
-	path = rpicosat
-	url = https://github.com/dirkschumacher/rpicosat
-	shallow = true
-	registered = true
