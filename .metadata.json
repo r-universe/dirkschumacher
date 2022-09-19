@@ -1,14 +1,6 @@
 [
   {
-    "package": "duckduckr",
-    "oncran": true
-  },
-  {
     "package": "encryptedRmd",
-    "oncran": true
-  },
-  {
-    "package": "listcomp",
     "oncran": true
   },
   {
