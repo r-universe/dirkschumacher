@@ -1,10 +1,6 @@
 [
   {
-    "package": "duckduckr",
-    "oncran": true
-  },
-  {
-    "package": "encryptedRmd",
+    "package": "ompr",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "ompr",
+    "package": "ompr.roi",
     "oncran": true
   },
   {
-    "package": "ompr.roi",
+    "package": "duckduckr",
+    "oncran": true
+  },
+  {
+    "package": "encryptedRmd",
     "oncran": true
   }
 ]

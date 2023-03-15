@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ompr"]
+	path = ompr
+	url = https://github.com/dirkschumacher/ompr
+	shallow = true
+	registered = true
+[submodule "listcomp"]
+	path = listcomp
+	url = https://github.com/dirkschumacher/listcomp
+	shallow = true
+	registered = true
+[submodule "ompr.roi"]
+	path = ompr.roi
+	url = https://github.com/dirkschumacher/ompr.roi
+	shallow = true
+	registered = true
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/dirkschumacher/duckduckr
@@ -11,20 +26,5 @@
 [submodule "encryptedRmd"]
 	path = encryptedRmd
 	url = https://github.com/dirkschumacher/encryptedrmd
-	shallow = true
-	registered = true
-[submodule "listcomp"]
-	path = listcomp
-	url = https://github.com/dirkschumacher/listcomp
-	shallow = true
-	registered = true
-[submodule "ompr"]
-	path = ompr
-	url = https://github.com/dirkschumacher/ompr
-	shallow = true
-	registered = true
-[submodule "ompr.roi"]
-	path = ompr.roi
-	url = https://github.com/dirkschumacher/ompr.roi
 	shallow = true
 	registered = true
