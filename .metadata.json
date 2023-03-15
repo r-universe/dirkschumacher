@@ -18,5 +18,9 @@
   {
     "package": "ompr.roi",
     "oncran": true
+  },
+  {
+    "package": "thankr",
+    "oncran": true
   }
 ]

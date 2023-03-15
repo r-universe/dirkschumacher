@@ -28,3 +28,8 @@
 	url = https://github.com/dirkschumacher/ompr.roi
 	shallow = true
 	registered = true
+[submodule "thankr"]
+	path = thankr
+	url = https://github.com/dirkschumacher/thankr
+	shallow = true
+	registered = true
