@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "anthroplus"]
 	path = anthroplus
 	url = https://github.com/cran/anthroplus
-	shallow = true
-	registered = true
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/dirkschumacher/duckduckr
-	shallow = true
-	registered = true
 [submodule "encryptedRmd"]
 	path = encryptedRmd
 	url = https://github.com/dirkschumacher/encryptedrmd
-	shallow = true
-	registered = true
 [submodule "listcomp"]
 	path = listcomp
 	url = https://github.com/dirkschumacher/listcomp
-	shallow = true
-	registered = true
 [submodule "ompr"]
 	path = ompr
 	url = https://github.com/dirkschumacher/ompr
-	shallow = true
-	registered = true
 [submodule "ompr.roi"]
 	path = ompr.roi
 	url = https://github.com/dirkschumacher/ompr.roi
-	shallow = true
-	registered = true
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/dirkschumacher/thankr
-	shallow = true
-	registered = true
