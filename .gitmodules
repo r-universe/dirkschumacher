@@ -17,6 +17,3 @@
 [submodule "ompr.roi"]
 	path = ompr.roi
 	url = https://github.com/dirkschumacher/ompr.roi
-[submodule "thankr"]
-	path = thankr
-	url = https://github.com/dirkschumacher/thankr
